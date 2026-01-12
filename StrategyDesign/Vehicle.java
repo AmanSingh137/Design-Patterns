@@ -1,4 +1,6 @@
-import strategy.DrivingStrategy;
+package StrategyDesign;
+
+import StrategyDesign.strategy.DrivingStrategy;
 
 public class Vehicle implements DrivingStrategy{
     

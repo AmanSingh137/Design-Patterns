@@ -1,4 +1,6 @@
-class StrategyDesignPattern {
+package StrategyDesign;
+
+public class StrategyDesignPattern {
     public static void main(String[] args){
         LocalAuto l1 = new LocalAuto();
         l1.drive();

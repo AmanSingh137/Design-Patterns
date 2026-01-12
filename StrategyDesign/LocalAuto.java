@@ -1,4 +1,6 @@
-import strategy.NormalDrivingStrategy;
+package StrategyDesign;
+
+import StrategyDesign.strategy.NormalDrivingStrategy;
 
 public class LocalAuto extends Vehicle{
     LocalAuto() {

@@ -1,4 +1,6 @@
-import strategy.FastDrivingStrategy;
+package StrategyDesign;
+
+import StrategyDesign.strategy.FastDrivingStrategy;
 
 public class SportyVehicle extends Vehicle {
     SportyVehicle(){

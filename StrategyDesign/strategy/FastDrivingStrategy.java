@@ -1,4 +1,4 @@
-package strategy;
+package StrategyDesign.strategy;
 
 public class FastDrivingStrategy implements DrivingStrategy{
     @Override
